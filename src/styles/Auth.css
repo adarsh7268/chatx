@@ -1,0 +1,19 @@
+.auth {
+    margin-top: 200px;
+    text-align: center;
+    border:#3b7c98;
+    border-style: double;
+    
+}
+
+.auth button {
+    width: 200px;
+    margin-top:auto;
+    height: 50px;
+    border: none;
+    background-color: #3b7c98;
+    color: white;
+    border-radius: 8px;
+    font: size 16px;;
+    cursor: pointer;
+}
